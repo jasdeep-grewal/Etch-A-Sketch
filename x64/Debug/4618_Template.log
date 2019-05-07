@@ -1,0 +1,4 @@
+﻿  CSketch.cpp
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 4\copy lab 4\template-master\csketch.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jasdeep\desktop\bcit\object oriented programming design\labs\lab 4\copy lab 4\template-master\csketch.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  4618_Template.vcxproj -> C:\Users\Jasdeep\Desktop\BCIT\Object Oriented Programming Design\Labs\Lab 4\Copy lab 4\Template-master\x64\Debug\4618_Template.exe
